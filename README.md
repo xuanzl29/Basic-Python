@@ -1,5 +1,3 @@
-# Basic Python Skills in Data Science
+# Data Science Projects
 
-This project shows the basic data science related python commands I can manage, 
-including data exploring, data cleaning, data analyzing, data visulazition,
-and some machine learning.
+This repository contains the Data Science projects I conducted using Python, R, or Julia.
